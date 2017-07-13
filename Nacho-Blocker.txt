@@ -1,0 +1,17 @@
+[Adblock Plus 2.0]
+! Title: Nacho-Blocker
+! Author: ILikNachos
+! Version: 0.0.1
+! Expires: 3 days 
+! Homepage: https://github.com/ILikNachos/Nacho-Blocker/
+!--------------------------------------------------------------------------!
+
+!Anti-Protest Scripts 
+##A[href="https://www.battleforthenet.com"]
+
+!Pirate Streaming
+*/videoplayor.png
+tvad.me###mainframe
+
+!Anti-4Chan banners
+*/image/contest_banners/*
