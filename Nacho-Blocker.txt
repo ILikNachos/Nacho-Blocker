@@ -15,3 +15,7 @@ tvad.me###mainframe
 
 !Anti-4Chan banners
 */image/contest_banners/*
+
+!Anti Reddit banners 
+
+##A[href="#*-hahafuckyouandyouradblock"]
